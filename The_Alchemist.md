@@ -1,6 +1,4 @@
 <center>
-<img src="" width="180" > 
-
 
 <font  size=4>《TheAlchemist》</font></br>
 </br>
